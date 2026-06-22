@@ -1,6 +1,6 @@
 # *Hi there, I'm [Your Name] 👋*
 
-### *🚀 MERN Stack & Python Developer* 
+### *🚀 MERN Stack Developer* 
 
 > *“I am a passionate Full-Stack Developer specializing in the **MERN Stack** and building scalable web applications. I love turning complex problems into elegant, efficient, and user-friendly digital solutions.”*
 
@@ -26,22 +26,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-### *📊 GitHub Stats*
-
-*_Here is a quick look at my GitHub ecosystem:_*
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radial&hide_border=true" alt="Your GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radial&hide_border=true" alt="GitHub Streak" height="180px"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="180px"/>
-</p>
-
----
+-----
 
 ### *📫 Connect with Me*
 
