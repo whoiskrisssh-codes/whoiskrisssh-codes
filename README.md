@@ -32,6 +32,6 @@
 
 *_Let's build something awesome together!_*
 
-* 💼 ***LinkedIn:*** *#*
+* 📸 ***Instagram:*** *https://www.instagram.com/krishhangs?igsh=OGp4cmR1ZjE4a2di*
 * 📧 ***Email:*** *whoiskrisssh@gmail.com*
 * 🌐 ***Portfolio:*** *https://whoiskrisssh-codes.github.io/Resume-Website/*
