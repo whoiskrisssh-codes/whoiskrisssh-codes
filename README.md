@@ -32,6 +32,6 @@
 
 *_Let's build something awesome together!_*
 
-* 💼 ***LinkedIn:*** *[linkedin.com/in/your-username](https://linkedin.com/in/your-username)*
-* 📧 ***Email:*** *your.email@example.com*
-* 🌐 ***Portfolio:*** *[yourportfolio.com](https://yourportfolio.com)*
+* 💼 ***LinkedIn:*** *#*
+* 📧 ***Email:*** *whoiskrisssh@gmail.com*
+* 🌐 ***Portfolio:*** *https://whoiskrisssh-codes.github.io/Resume-Website/*
