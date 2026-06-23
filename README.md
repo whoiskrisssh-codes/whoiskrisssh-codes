@@ -1,4 +1,4 @@
-# *Hi there, I'm [Krish] 👋*
+# *Hi there, I'm Krish 👋*
 
 ### *🚀 MERN Stack Developer* 
 
